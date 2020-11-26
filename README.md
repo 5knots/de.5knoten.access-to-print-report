@@ -2,14 +2,14 @@
 
 ![Screenshot](/images/screenshot.png)
 
-(*FIXME: In one or two paragraphs, describe what the extension does and why one would download it. *)
+Manages access to the "Print Report" button in CiviCase. Gives access to all users with the right "access my cases" instead of only users with the right "access all cases".
 
 The extension is licensed under [AGPL-3.0](LICENSE.txt).
 
 ## Requirements
 
 * PHP v7.0+
-* CiviCRM (*FIXME: Version number*)
+* CiviCRM 5.29 (and probably others)
 
 ## Installation (Web UI)
 
@@ -37,7 +37,7 @@ cv en access_to_print_report
 
 ## Usage
 
-(* FIXME: Where would a new user navigate to get started? What changes would they see? *)
+Navigate to the CiviCRM Case overview. Use the print button even if you don't have access to all cases and activities.
 
 ## Known Issues
 
