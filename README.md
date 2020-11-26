@@ -1,7 +1,5 @@
 # access-to-print-report
 
-![Screenshot](/images/screenshot.png)
-
 Manages access to the "Print Report" button in CiviCase. Gives access to all users with the right "access my cases" instead of only users with the right "access all cases".
 
 The extension is licensed under [AGPL-3.0](LICENSE.txt).
