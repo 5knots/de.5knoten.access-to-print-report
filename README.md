@@ -1,4 +1,4 @@
-# Access to Print Report CiviCRM Extension
+# Access to Print Case Report CiviCRM Extension
 
 Manages access to the "Print Report" button in CiviCase. Gives access to all users with the right "access my cases" instead of only users with the right "access all cases".
 
