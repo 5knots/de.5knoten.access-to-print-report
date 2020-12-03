@@ -5,7 +5,7 @@
   <description>Manages access to the "Print Report" button in CiviCase. Gives access to all users with the right "access my cases" instead of only users with the right "access all cases".</description>
   <license>AGPL-3.0</license>
   <maintainer>
-    <author>Katharina Ullherr</author>
+    <author>Katharina Ullherr; developed with support of the CiviCRM community; funded by Antidiskriminierungsverband Deutschland. </author>
     <email>katharina.ullherr@5knoten.de</email>
   </maintainer>
   <urls>
@@ -20,7 +20,7 @@
   <compatibility>
     <ver>5.0</ver>
   </compatibility>
-  <comments>Funded by Antidiskriminierungsverband Deutschland, developed with support of the CiviCRM community</comments>
+  <comments></comments>
   <classloader>
     <psr4 prefix="Civi\" path="Civi"/>
   </classloader>
