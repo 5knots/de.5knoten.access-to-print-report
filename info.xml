@@ -20,7 +20,7 @@
   <compatibility>
     <ver>5.0</ver>
   </compatibility>
-  <comments>Funded by advd, developed with support of the CiviCRM community</comments>
+  <comments>Funded by Antidiskriminierungsverband Deutschland, developed with support of the CiviCRM community</comments>
   <classloader>
     <psr4 prefix="Civi\" path="Civi"/>
   </classloader>
